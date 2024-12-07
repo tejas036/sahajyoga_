@@ -1,0 +1,319 @@
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Sahaja Yoga Donation</title>
+
+	<link rel="stylesheet" href="assets/demo.css">
+	<link rel="stylesheet" href="assets/form-basic.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  
+	
+	<script src="assets/dynamicAction.js"></script>
+	
+  <!--<link rel="stylesheet" type="text/css" href="css/style.css"/> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+  <!--<script src="script.js/jquery.js"></script>	-->
+	
+</head>
+	<header>
+	<div align="center">
+       <img align="left" src="assets/logo3.png" height="70" width="70"/>
+	   <a href="print.php" target="_blank">Donor Login</a> 
+	   </div>
+    </header> 
+
+    <div class="main-content">
+
+        <form class="form-basic" method="post" action="EazyPayPGtest.php" id="formfield" >
+
+            <div class="form-title-row">
+				<h2>The Life Eternal Trust, Mumbai</h2>
+				<br/>
+				<h2>DONATIONS</h2>
+				<br/>
+				<p>Only for DONATION in INR from INDIAN Accounts.</p>
+				<p>All * Fields are mandatory to fill.</p>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>First name *</span>
+                    <input type="text" name="fname" id="fname" width="100%" required>
+                </label>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>Last Name *</span>
+                    <input type="text" name="lname" id="lname">
+                </label>
+            </div>			
+			
+            <div class="form-row">
+                <label>
+                    <span>Mobile No. *</span>
+                    <input type="text" name="mobile" id="mobile"  />
+                </label>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>Email *</span>
+                    <input type="email" name="email" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" />
+                </label>
+            </div>			
+
+            <div class="form-row">
+                <label>
+                    <span>City *</span>
+                    <input type="text" name="city" id="city">
+                </label>
+            </div>			
+			
+            <div class="form-row">
+                <label>
+                    <span>Pincode</span>
+                    <input type="text" name="pincode" id="pincode">
+                </label>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>PAN No. *</span>
+                    <input type="text" name="pan" id="pan" maxlength="10"> 
+                </label>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>AADHAAR No.</span>
+                    <input type="text" name="aadhaar" id="aadhaar">
+                </label>
+            </div>
+
+            <div class="form-row">
+                <label><span>Choose a type *</span></label>
+                <div class="form-radio-buttons" id="paymentType">
+
+                    <div>
+                        <label>
+                            <input onclick="radioEevent(this.id)" type="radio" name="radio" id="general_donation"/>
+                            <span>General Donation</span>
+                        </label>
+                    </div>
+
+                    <div>
+                        <label>
+                            <input onclick="radioEevent(this.id)" type="radio" name="radio" id="corpus_fund"/>
+                            <span>Corpus Fund</span>
+                        </label>
+                    </div>
+
+                    <div style="visibility:hidden">
+                        <label>
+                            <input onclick="radioEevent(this.id)" type="radio" name="radio" id="centre_donation"/>
+                            <span>Centre Donation</span>
+                        </label>
+                    </div>
+
+                </div>
+            </div>
+
+			
+            <div class="form-row">
+                <label style="display:none" id="lb_payment_towards">
+                    <span>Payment Towards</span>
+                    <select name="payment_towards" id="payment_towards" onchange="setPaymentTowardsFromDropdown(this.value)" >
+                        <!--<option>Option One</option>
+                        <option>Option Two</option>
+                        <option>Option Three</option>
+                        <option>Option Four</option>-->
+                    </select>
+                </label>
+            </div>
+			<input type="hidden" name="paymentFor" id="paymentFor"/>
+			<input type="hidden" name="paymentTowards" id="paymentTowards"/>
+			
+            <div class="form-row" >
+                <label id="info_label" style="display:none">
+
+                    <label align="center" name="information" id="information"></label>
+                </label>
+            </div>			
+			
+            <div class="form-row" id="lb_center_name" style="display:none">
+                <label>
+                    <span>Centre Name</span>
+                    <input type="text" name="center_name" id="center_name" onblur="setPaymentTowardsFromCenterName(this.value)" />
+                </label>
+            </div>			
+			
+            <div class="form-row" id="lb_center_code" style="display:none">
+                <label>
+                    <span>Centre Code</span>
+                    <input type="text" name="center_code" id="center_code"/>
+                </label>
+            </div>			
+			
+            <div class="form-row">
+                <label>
+                    <span>Donation Amount *</span>
+                    <input type="number" name="amount" id="amount">
+                </label>
+            </div>
+			
+			<!--
+            <div class="form-row">
+                <label>
+                    <span>Textarea</span>
+                    <textarea name="textarea"></textarea>
+                </label>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>Checkbox</span>
+                    <input type="checkbox" name="checkbox" checked>
+                </label>
+            </div>
+			-->
+
+			
+			
+
+			<div align="center">
+           
+			<label>
+                    
+                   
+                <button type="button" name="btn_validate" id="bt_validate" class="btn btn-summary" onclick="checkValidateAllFields()" style="display:block">Next</button>
+				<input type="button" name="btn" value="All Good! Proceed" id="submitBtn" data-toggle="modal" data-target="#confirm-submit"  style="display:none"/>
+                <button type="button" name="resetBtn"  id="resetBtn" onclick="resetFields()" class="btn btn-failure" style="display:none" >Reset </button>
+                
+            </label>
+			<p style="margin-left: 0;margin-right: 0;" margin-right = "50px;" align="justify">
+				<font color="red">
+				We thank you for your donation. You will receive the donation receipt on email. If required, you can also view your previous donations made to us by using Donor Login (given at top right of this page).
+
+				</font> 
+			</p>
+			</div>
+			
+
+        </form>
+
+    </div>
+
+
+<br/>
+<br/>
+<div class="modal fade" id="confirm-submit" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                Confirm Submit
+            </div>
+            <div class="modal-body">
+                Are you sure you want to pay with the following details?
+                <table class="table">
+                    <tr>
+                        <th>First Name</th>
+                        <td id="s_fname"></td>
+                    </tr>
+                    <tr>
+                        <th>Last Name</th>
+                        <td id="s_lname"></td>
+                    </tr>
+                    <tr>
+                        <th>Mobile No.</th>
+                        <td id="s_mobile"></td>
+                    </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td id="s_email"></td>
+                    </tr>
+                    <tr>
+                        <th>City</th>
+                        <td id="s_city"></td>
+                    </tr>
+                    <tr>
+                        <th>Pincode</th>
+                        <td id="s_pincode"></td>
+                    </tr>
+                    <tr>
+                        <th>PAN No.</th>
+                        <td id="s_pan"></td>
+                    </tr>
+                    <tr>
+                        <th>AADHAAR No.</th>
+                        <td id="s_aadhaar"></td>
+                    </tr>	
+                    <tr>
+                        <th>Payment Towards</th>
+                        <td id="s_payment_towards"></td>
+                    </tr>
+                    <tr>
+                        <th>Payment For</th>
+                        <td id="s_payment_for"></td>
+                    </tr>
+                    <tr>
+                        <th>Donation Amount</th>
+                        <td id="s_amount"></td>
+                    </tr>
+					
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                <a href="#" id="submit" class="btn btn-success success">Submit</a>
+            </div>
+        </div>
+    </div>
+</div>	
+	
+	
+	
+
+
+	
+
+	
+</body>
+
+
+	<script type="text/javascript">
+		$('#submitBtn').click(function() {
+		/* when the button in the form, display the entered values in the modal */
+		$('#s_fname').text($('#fname').val());
+		$('#s_lname').text($('#lname').val());
+		$('#s_email').text($('#email').val());
+		$('#s_mobile').text($('#mobile').val());
+		$('#s_city').text($('#city').val());
+		$('#s_pincode').text($('#pincode').val());	
+		$('#s_pan').text($('#pan').val());
+		$('#s_aadhaar').text($('#aadhaar').val());
+		$('#s_payment_for').text($('#paymentFor').val());
+		$('#s_payment_towards').text($('#paymentTowards').val());
+		$('#s_amount').text($('#amount').val());	
+	});
+
+	$('#submit').click(function(){
+		/* when the submit button in the modal is clicked, submit the form */
+		//alert('submitting');
+		$('#formfield').submit();
+	});	 
+	
+		
+	</script>
+
+</html>

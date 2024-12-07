@@ -1,0 +1,33 @@
+[04-Sep-2024 08:09:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 130
+[04-Sep-2024 08:10:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 130
+[04-Sep-2024 08:10:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 130
+[04-Sep-2024 08:12:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 127
+[04-Sep-2024 08:12:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 127
+[04-Sep-2024 08:13:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 128
+[05-Sep-2024 11:42:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 151
+[05-Sep-2024 11:42:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 151
+[05-Sep-2024 11:42:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 151
+[05-Sep-2024 11:42:15 UTC] PHP Notice:  Undefined index: Email in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 173
+[05-Sep-2024 11:43:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 151
+[05-Sep-2024 11:43:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 151
+[05-Sep-2024 11:43:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 151
+[05-Sep-2024 11:43:39 UTC] PHP Notice:  Undefined index: Email in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 173
+[05-Sep-2024 11:45:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 141
+[05-Sep-2024 11:45:31 UTC] PHP Notice:  Undefined index: email in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 143
+[05-Sep-2024 11:45:31 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 144
+[05-Sep-2024 11:45:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 141
+[05-Sep-2024 11:45:33 UTC] PHP Notice:  Undefined index: email in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 143
+[05-Sep-2024 11:45:33 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 144
+[05-Sep-2024 11:45:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 141
+[05-Sep-2024 11:45:35 UTC] PHP Notice:  Undefined index: email in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 143
+[05-Sep-2024 11:45:35 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 144
+[05-Sep-2024 11:45:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 141
+[05-Sep-2024 11:45:46 UTC] PHP Notice:  Undefined index: Email in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/index.php on line 156
+[09-Sep-2024 16:34:55 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/result.php on line 5
+[09-Sep-2024 16:35:03 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/result.php on line 5
+[09-Sep-2024 16:35:10 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/result.php on line 5
+[09-Sep-2024 16:35:15 UTC] PHP Notice:  Undefined index: mobile in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/result.php on line 5
+[18-Sep-2024 06:28:30 UTC] PHP Warning:  include_once(header1.php): failed to open stream: No such file or directory in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/term_of_use.php on line 1
+[18-Sep-2024 06:28:30 UTC] PHP Warning:  include_once(): Failed opening 'header1.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/term_of_use.php on line 1
+[18-Sep-2024 06:28:41 UTC] PHP Warning:  include_once(header1.php): failed to open stream: No such file or directory in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/privacy_policy.php on line 1
+[18-Sep-2024 06:28:41 UTC] PHP Warning:  include_once(): Failed opening 'header1.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tb7a19wg7cs8/public_html/sahajayoga_profile/privacy_policy.php on line 1

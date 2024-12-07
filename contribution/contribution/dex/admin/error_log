@@ -1,0 +1,366 @@
+[28-Jul-2020 05:26:48 UTC] PHP Notice:  Trying to get property of non-object in /home/sahajayoga/public_html/contribution/admin/donar.php on line 222
+[05-Aug-2020 05:36:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sahajayoga/public_html/contribution/admin/donar.php on line 247
+[05-Aug-2020 05:36:19 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sahajayoga/public_html/contribution/admin/donar.php on line 247
+[05-Aug-2020 05:36:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sahajayoga/public_html/contribution/admin/donar.php on line 247
+[05-Aug-2020 05:36:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sahajayoga/public_html/contribution/admin/donar.php on line 247
+[31-Aug-2020 11:26:15 UTC] PHP Notice:  Trying to get property of non-object in /home/sahajayoga/public_html/contribution/admin/donar.php on line 228
+[14-Sep-2020 16:32:19 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:25 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:56 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:32:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:04 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:11 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:11 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:12 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:55 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:34:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:35:13 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:35:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sahajayoga/public_html/contribution/admin/admin.php on line 9
+[14-Sep-2020 16:35:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Sep-2020 16:38:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Sep-2020 16:39:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Sep-2020 16:39:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Sep-2020 16:39:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Sep-2020 17:42:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Sep-2020 17:50:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 05:22:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 05:23:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 06:12:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 06:22:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 10:14:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 17:55:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2020 17:58:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Sep-2020 13:17:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Sep-2020 13:36:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Sep-2020 11:03:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Sep-2020 11:11:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Sep-2020 11:17:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Sep-2020 11:18:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Sep-2020 09:07:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Sep-2020 09:07:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Sep-2020 09:15:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[25-Sep-2020 09:34:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Sep-2020 10:48:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Sep-2020 10:48:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Sep-2020 10:49:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Sep-2020 10:52:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[28-Sep-2020 14:53:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Sep-2020 07:20:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Sep-2020 07:21:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Sep-2020 09:07:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Sep-2020 09:25:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Sep-2020 09:29:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[30-Sep-2020 09:13:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[01-Oct-2020 14:59:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[01-Oct-2020 16:08:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[01-Oct-2020 16:09:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Oct-2020 04:27:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Oct-2020 05:45:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Oct-2020 15:18:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Oct-2020 16:35:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Oct-2020 08:55:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Oct-2020 18:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Oct-2020 18:38:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Oct-2020 18:46:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/sahajayoga/public_html/contribution/admin/donar.php on line 279
+[06-Oct-2020 18:46:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/sahajayoga/public_html/contribution/admin/donar.php on line 279
+[06-Oct-2020 18:49:48 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 174
+[06-Oct-2020 18:49:48 UTC] PHP Notice:  Undefined variable: resultMain in /home/sahajayoga/public_html/contribution/admin/donar.php on line 232
+[06-Oct-2020 18:49:48 UTC] PHP Notice:  Trying to get property of non-object in /home/sahajayoga/public_html/contribution/admin/donar.php on line 232
+[06-Oct-2020 18:50:08 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 174
+[06-Oct-2020 18:50:08 UTC] PHP Notice:  Undefined variable: resultMain in /home/sahajayoga/public_html/contribution/admin/donar.php on line 232
+[06-Oct-2020 18:50:08 UTC] PHP Notice:  Trying to get property of non-object in /home/sahajayoga/public_html/contribution/admin/donar.php on line 232
+[06-Oct-2020 18:50:51 UTC] PHP Notice:  Undefined variable: resultMain in /home/sahajayoga/public_html/contribution/admin/donar.php on line 232
+[06-Oct-2020 18:50:51 UTC] PHP Notice:  Trying to get property of non-object in /home/sahajayoga/public_html/contribution/admin/donar.php on line 232
+[06-Oct-2020 18:51:59 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 174
+[06-Oct-2020 18:54:21 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 176
+[07-Oct-2020 06:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[07-Oct-2020 06:21:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Oct-2020 10:28:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Oct-2020 16:48:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Oct-2020 16:49:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Oct-2020 06:34:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Oct-2020 08:32:59 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 272
+[13-Oct-2020 08:33:28 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 272
+[13-Oct-2020 08:38:43 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 272
+[13-Oct-2020 08:40:23 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 272
+[13-Oct-2020 14:58:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Oct-2020 14:59:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Oct-2020 15:48:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Oct-2020 07:40:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Oct-2020 07:53:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Oct-2020 08:39:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 08:03:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 08:38:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 08:56:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 08:59:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 09:19:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:02:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:10:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:12:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:14:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:23:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:23:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:32:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Oct-2020 10:37:45 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[17-Oct-2020 10:38:31 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[17-Oct-2020 10:39:06 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[17-Oct-2020 10:42:35 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[17-Oct-2020 10:42:50 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[17-Oct-2020 10:43:06 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[17-Oct-2020 10:43:50 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 09:44:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Oct-2020 09:45:59 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 09:49:38 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 09:49:53 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 09:50:41 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 09:50:55 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 09:55:47 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[19-Oct-2020 10:25:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Oct-2020 10:28:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[20-Oct-2020 13:35:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[21-Oct-2020 06:03:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 05:48:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 05:54:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 06:02:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 06:03:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 06:03:48 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Oct-2020 06:22:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 06:45:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 09:46:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Oct-2020 11:59:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Oct-2020 13:46:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Oct-2020 05:03:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Oct-2020 08:22:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Oct-2020 08:28:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Oct-2020 08:34:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Oct-2020 08:50:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Oct-2020 08:50:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Oct-2020 13:25:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Oct-2020 07:57:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Oct-2020 06:48:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Oct-2020 06:54:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Oct-2020 07:26:23 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[02-Nov-2020 06:38:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Nov-2020 06:43:29 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[02-Nov-2020 07:57:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[04-Nov-2020 09:17:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[04-Nov-2020 12:47:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Nov-2020 11:16:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Nov-2020 11:59:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Nov-2020 13:35:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Nov-2020 13:41:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Nov-2020 09:33:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Nov-2020 10:10:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[06-Nov-2020 14:23:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[07-Nov-2020 10:12:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Nov-2020 06:39:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Nov-2020 10:21:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Nov-2020 12:39:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[11-Nov-2020 05:34:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[14-Nov-2020 17:24:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[16-Nov-2020 17:12:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-Nov-2020 03:29:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Nov-2020 09:34:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Nov-2020 10:45:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[25-Nov-2020 09:06:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Nov-2020 11:31:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[27-Nov-2020 10:34:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[27-Nov-2020 13:10:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Dec-2020 07:19:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Dec-2020 07:26:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Dec-2020 07:27:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[04-Dec-2020 02:27:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[04-Dec-2020 03:02:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[04-Dec-2020 04:05:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 06:35:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 09:54:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 09:58:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:00:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:02:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:03:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:03:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:04:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:04:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:06:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:08:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:08:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:21:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:21:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:22:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:22:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:24:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:25:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:27:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:30:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:31:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:49:59 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:49:59 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:50:15 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:50:15 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:50:28 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:50:28 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:50:32 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:50:32 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:50:44 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:50:44 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:52:13 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:52:13 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:52:26 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:52:26 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:52:37 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:52:37 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:53:54 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:53:54 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:54:09 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:54:09 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 16
+[05-Dec-2020 10:54:49 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:54:49 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:54:57 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 18
+[05-Dec-2020 10:54:57 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 18
+[05-Dec-2020 10:56:01 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:56:01 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:56:15 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 20
+[05-Dec-2020 10:56:15 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 20
+[05-Dec-2020 10:57:01 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:57:01 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:57:08 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 20
+[05-Dec-2020 10:57:08 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 20
+[05-Dec-2020 10:59:39 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:59:39 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:59:39 UTC] PHP Notice:  Undefined index: userid in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 10
+[05-Dec-2020 10:59:39 UTC] PHP Notice:  Undefined index: username in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 11
+[05-Dec-2020 10:59:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[05-Dec-2020 10:59:48 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 10:59:48 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 10:59:56 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 19
+[05-Dec-2020 10:59:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 19
+[05-Dec-2020 11:00:55 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:00:55 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:02:13 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:02:13 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:02:27 UTC] PHP Notice:  Undefined variable: conn in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 18
+[05-Dec-2020 11:02:27 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 18
+[05-Dec-2020 11:03:45 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:03:45 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:15:41 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:15:41 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:22:48 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:22:48 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:26:58 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:26:58 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:31:24 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:31:24 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:34:15 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:34:15 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[05-Dec-2020 11:41:20 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[05-Dec-2020 11:41:20 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[13-Dec-2020 05:17:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Dec-2020 16:37:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Dec-2020 16:37:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Dec-2020 16:43:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Dec-2020 16:44:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[27-Dec-2020 06:31:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[27-Dec-2020 07:23:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[28-Dec-2020 04:51:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[28-Dec-2020 19:05:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[28-Dec-2020 19:09:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 04:11:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 05:00:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 05:50:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 07:19:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 08:46:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 11:33:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 16:45:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Dec-2020 17:09:15 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[29-Dec-2020 17:47:59 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[30-Dec-2020 04:20:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[30-Dec-2020 07:24:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[30-Dec-2020 12:41:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Dec-2020 04:43:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Dec-2020 13:30:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Dec-2020 14:03:44 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[02-Jan-2021 05:36:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[02-Jan-2021 05:36:59 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[16-Jan-2021 12:25:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Jan-2021 19:06:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[26-Jan-2021 17:40:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[27-Jan-2021 07:43:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Jan-2021 05:04:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[29-Jan-2021 05:17:29 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[06-Feb-2021 08:29:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[09-Feb-2021 04:32:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Feb-2021 17:11:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Mar-2021 05:01:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Mar-2021 05:07:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[16-Mar-2021 02:46:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Mar-2021 09:25:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Mar-2021 09:28:19 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:28:35 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:28:50 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:50:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[22-Mar-2021 09:52:31 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:52:52 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:54:40 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:54:50 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:55:09 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:55:24 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[22-Mar-2021 09:55:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Mar-2021 08:18:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Mar-2021 12:02:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Mar-2021 12:03:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Mar-2021 12:14:30 UTC] PHP Notice:  Undefined variable: totalamount in /home/sahajayoga/public_html/contribution/admin/donar.php on line 281
+[24-Mar-2021 11:58:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[27-Mar-2021 10:47:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[31-Mar-2021 17:24:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[17-May-2021 07:56:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[18-Jun-2021 15:10:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[25-Jul-2021 09:28:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[04-Aug-2021 14:29:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Aug-2021 08:52:56 UTC] PHP Warning:  session_start(): open(/tmp/sess_strmb13dacj24gcplauinrpuo5, O_RDWR) failed: Disk quota exceeded (122) in /home/sahajayoga/public_html/contribution/admin/admin.php on line 2
+[24-Aug-2021 08:52:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Aug-2021 08:53:06 UTC] PHP Warning:  session_start(): open(/tmp/sess_strmb13dacj24gcplauinrpuo5, O_RDWR) failed: Disk quota exceeded (122) in /home/sahajayoga/public_html/contribution/admin/admin.php on line 2
+[24-Aug-2021 08:53:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Aug-2021 08:53:08 UTC] PHP Warning:  session_start(): open(/tmp/sess_strmb13dacj24gcplauinrpuo5, O_RDWR) failed: Disk quota exceeded (122) in /home/sahajayoga/public_html/contribution/admin/admin.php on line 2
+[24-Aug-2021 08:53:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Aug-2021 10:33:25 UTC] PHP Warning:  session_start(): open(/tmp/sess_957ehge9iaj4j29j47il11kds1, O_RDWR) failed: Disk quota exceeded (122) in /home/sahajayoga/public_html/contribution/admin/admin.php on line 2
+[24-Aug-2021 10:33:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Aug-2021 10:33:35 UTC] PHP Warning:  session_start(): open(/tmp/sess_34drmcbu8e3k90n38ta015ks34, O_RDWR) failed: Disk quota exceeded (122) in /home/sahajayoga/public_html/contribution/admin/admin.php on line 2
+[24-Aug-2021 10:33:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[24-Aug-2021 10:33:41 UTC] PHP Warning:  session_start(): open(/tmp/sess_957ehge9iaj4j29j47il11kds1, O_RDWR) failed: Disk quota exceeded (122) in /home/sahajayoga/public_html/contribution/admin/admin.php on line 2
+[24-Aug-2021 10:33:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[15-Sep-2021 12:12:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[10-Nov-2021 16:32:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[11-Nov-2021 16:17:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 16:45:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 16:52:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 16:52:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 16:52:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 16:52:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 16:53:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[23-Nov-2021 23:53:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[12-Dec-2021 07:26:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Dec-2021 15:16:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Dec-2021 15:16:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[13-Dec-2021 15:16:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Dec-2021 08:51:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Dec-2021 08:52:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[19-Dec-2021 19:52:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[28-Dec-2021 07:57:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8
+[28-Dec-2021 07:57:22 UTC] PHP Notice:  Undefined index: cpass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 8
+[28-Dec-2021 07:57:22 UTC] PHP Notice:  Undefined index: npass in /home/sahajayoga/public_html/contribution/admin/changepass.php on line 9
+[28-Dec-2021 07:58:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/sahajayoga/public_html/contribution/function.php on line 8

@@ -1,0 +1,106 @@
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Sahaja Yoga Donation</title>
+
+	<link rel="stylesheet" href="assets/demo.css">
+	<link rel="stylesheet" href="assets/form-basic.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  
+	
+	<script src="assets/dynamicAction.js"></script>
+	
+  <!--<link rel="stylesheet" type="text/css" href="css/style.css"/> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+  <!--<script src="script.js/jquery.js"></script>	-->
+	
+</head>
+	<header>
+	<div align="center">
+       <img align="left" src="assets/logo3.png" height="70" width="70"/>
+	   <a href="print.php" target="_blank">Donor Login</a> 
+	   </div>
+    </header> 
+
+    <div class="main-content">
+
+        <form class="form-basic" method="post" action="contribution_from.php" id="formfield" onsubmit="return validateMobileNumber()" >
+
+            <div class="form-title-row" align="center">
+				<h2>The Life Eternal Trust, Mumbai</h2>
+				<br/>
+				<h2>DONATIONS</h2>
+				<br/>
+				<p>Only for DONATION in INR from INDIAN Accounts.</p>
+				<p>All * Fields are mandatory to fill.</p>
+            </div>
+
+            			
+			
+            <div class="form-row">
+                <center>
+                    <input type="text" name="mobile" id="mobile" maxlength="10" placeholder="Enter Mobile No" required/>
+              </center>
+            </div>
+
+    
+
+			<div>
+           
+			<label>
+                    
+                   
+               
+				<input type="submit" name="submit" class="btn btn-info" value="Validate Mobile No"/>
+                
+            </label>
+			<p style="margin-left: 0;margin-right: 0;" margin-right = "50px;" align="justify">
+				<font color="red">
+				We thank you for your donation. You will receive the donation receipt on email. If required, you can also view your previous donations made to us by using Donor Login (given at top right of this page).
+
+				</font> 
+			</p>
+			</div>
+			
+
+        </form>
+
+    </div>
+
+
+<br/>
+<br/>
+
+	
+	
+<script>
+function validateMobileNumber() {
+    var mobile = document.getElementById("mobile").value;
+    var regex = /^[0-9]{10}$/; // Regular expression for 10-digit mobile number
+    
+    if (!regex.test(mobile)) {
+        alert("Please enter a valid 10-digit mobile number.");
+        return false;
+    }
+    return true;
+}
+</script>
+
+	
+
+	
+</body>
+
+
+
+</html>
